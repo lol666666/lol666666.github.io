@@ -102,7 +102,7 @@ function decodeUnicode($str)
        
 ```
 
-2.  index.json\second.json\third.json这三个列举的文件，分别为不同模块的uri集合，以index.json文件举例，可以设置一个模块下的所有接口uri到一个json文件下，这样便可以模块管理，结构如下：
+2. index.json\second.json\third.json这三个列举的文件，分别为不同模块的uri集合，以index.json文件举例，可以设置一个模块下的所有接口uri到一个json文件下，这样便可以模块管理，结构如下：
   ```
     [
     {
@@ -149,7 +149,7 @@ function decodeUnicode($str)
     }
 }
 ```
-==file json 文件直接存放的为json接口假数据，直接可以返回想要的数据==
+==file json文件直接存放的为json接口假数据，直接可以返回想要的数据==
 
 
 
